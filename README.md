@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Full-stack web projects using PHP, Python, Java, MySQL<br><br>Strengthening DSA & problem-solving for interviews<br><br>Real-world CRUD-based systems (MVC, authentication, role-based access)<br><br><br>Web applications (PHP, Django, Java-based systems)<br><br>Open-source beginner-friendly projects with real impact<br><br>Database-driven systems and backend-heavy projects<br><br>Writing clean, scalable backend architecture<br><br>Advanced SQL optimization & system design<br><br>Cracking technical interviews efficiently (not blindly grinding)<br><br>Advanced PHP (MVC, Laravel basics)<br><br>Python for backend & automation<br><br>Core CS fundamentals: DSA, OOP, DBMS<br><br>PHP & MySQL projects<br><br>Python basics to intermediate<br><br>College-level CS concepts explained simply (no textbook nonsense)
+<!--# 💫 About Me:
+Full-stack web projects using PHP, Python, Java, MySQL<br><br>Strengthening DSA & problem-solving for interviews<br><br>Real-world CRUD-based systems (MVC, authentication, role-based access)<br><br><br>Web applications (PHP, Django, Java-based systems)<br><br>Open-source beginner-friendly projects with real impact<br><br>Database-driven systems and backend-heavy projects<br><br>Writing clean, scalable backend architecture<br><br>Advanced SQL optimization & system design<br><br>Cracking technical interviews efficiently (not blindly grinding)<br><br>Advanced PHP (MVC, Laravel basics)<br><br>Python for backend & automation<br><br>Core CS fundamentals: DSA, OOP, DBMS<br><br>PHP & MySQL projects<br><br>Python basics to intermediate<br><br>College-level CS concepts explained simply (no textbook nonsense)-->
 
 
 ## 🌐 Socials:
